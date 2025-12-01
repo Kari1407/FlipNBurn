@@ -32,6 +32,8 @@ V0.61 - Aero Touchup
 
 V0.7 - Shiny V1 (Still some Issues, but "Beta" for now), Grid Fins, and Some Plumb
 
+V0.8 - Updated V3 (No Ship)
+
 
 [DM on discord for any questions!]
 [Also join the Discord for more! https://discord.gg/JfuYbWAxxB]
