@@ -34,6 +34,8 @@ V0.7 - Shiny V1 (Still some Issues, but "Beta" for now), Grid Fins, and Some Plu
 
 V0.8 - Updated V3 (No Ship)
 
+V0.9 - Add V2/3 Ships and *Maybe V1 Booster :)* (Planned)
+
 
 [DM on discord for any questions!]
 [Also join the Discord for more! https://discord.gg/JfuYbWAxxB]
