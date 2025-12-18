@@ -40,7 +40,7 @@ V0.9 - Add V2/3 Ships and *Maybe V1 Booster :)* (Planned)
 [DM on discord for any questions!]
 [Also join the Discord for more! https://discord.gg/JfuYbWAxxB]
 
-'Questin's Block 3 © 2025 by `Questin (1questin) 
+FlipN'Burn © 2025 by `Questin (1questin) and Vista 
 
 Models/.Mu/.PNGs are licensed under All Rights Reserved (ARR) [To their respective Owners]
 
