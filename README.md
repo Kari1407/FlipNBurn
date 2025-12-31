@@ -31,15 +31,25 @@ Beta 0.96 - [Planned] PEZ + Starlink, Door Operational and Drouges Working on BL
 Dependencies:
 
 B9 Part Switch
+
 ModuleManager
+
 Shabby/Resurfaced
+
 Community Resource Pack
+
 Community Part Fixes
+
 Community Part Modules
+
 Waterfall
+
 FuelVent
+
 RealPlume
+
 Smokescreen
+
 Starship Expansion Project (SEP)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -47,13 +57,21 @@ Starship Expansion Project (SEP)
 Credits List:
 
 Ship Model: 'Questin and Vista
+
 Booster V1 Model: 'Questin
+
 Booster V1 Gridfins: Vista
+
 RO Configs: Jade and Ty both did some
+
 Realnames: Ty
+
 RSS/NonRO: 'Questin and Vista
+
 Plumes: Andrew
+
 Booster V3 Model: 'Questin (F346 did QDs)
+
 Raptor 3 Model: DominoPlayz
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
