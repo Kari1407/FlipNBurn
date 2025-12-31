@@ -1,67 +1,80 @@
-### Flip N' Burn
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-This Mod Adds Block 3 Hardware to KSP, and some Block 1 and 2 soon enough. 
+Flip N' Burn (Formerly Questin's Block 3) Changelog And Other Misc Info
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Beta 0 - Old Block 3 File, Updated over with Actual b3 for Beta 0.5
+Beta 0.5 - Block 3 Model Overhaul V1, Bunch of Extra Stuff
+Beta 0.6 - Block 3 Fixes, plus early Raptor 3s.
+Beta 0.61 - Aero Tweaks
+Beta 0.7 - Shiny Booster, Grid Fins, Small Fixs, and Plume Updates.
+Beta 0.8 - Block 3 Model Overhaul V2, Small Plume Improvements. (Ships Redacted)
+Beta 0.85 - Block 0.5 (B4-5) and Block 1 [1st Generation] (B7-B17) added. New Names for Vessels (Monarch for Boosters, Mastadon for Ships) Ships Redacted For now.
+Beta 0.86 - Hotfix for BL1 Chines and BL3 Nodes. Misc Tweaks.
+Beta 0.9 - ~Mid Dev Block 2 Ship Added. Block 3 Ship Redacted for Serious Issues. Block 1 Tiny Tweaks, Early RO Config (Delayed a tinnnnnnnnyy bit, need to fix a thing), and Realnames.
+Beta 0.95 - [Planned] Block 3/4 Ship, Possible Block 3 Overhaul V3, Misc BL1 Updates and Tweaks, BL0.5 Cluster Added Back, Possible Ship Aero Overhaul if Needed
+Beta 0.96 - [Planned] PEZ + Starlink, Door Operational and Drouges Working on BL3
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Dependencies:
-- B9 Part Switch
-- ModuleManager
-- Shabby/Resurfaced
-- Community Resource Pack
-- Community Part Fixes
-- Community Part Modules
-- Waterfall
-- FuelVent 
-- RealPlume
-- Smokescreen
-- Starship Expansion Project (SEP) [This is NOT a SEP addon! It only needs SEP for a few modules!]
 
-Recommended mods but not required:
-- Starship Launch Expansion (SLE)
-- Kerbal Joint Reinforcement (KJR) 
+B9 Part Switch
+ModuleManager
+Shabby/Resurfaced
+Community Resource Pack
+Community Part Fixes
+Community Part Modules
+Waterfall
+FuelVent
+RealPlume
+Smokescreen
+Starship Expansion Project (SEP)
 
-Not Currently Compatible with:
-- RSS/RO
-	
-Changelog:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-V0 - Old Block 3 File, will be updated over with New Block 3 next update.
+Credits List:
 
-V0.5 - Block 3 Model Overhaul, Bunch of Extra Stuff
+Ship Model: 'Questin and Vista
+Booster V1 Model: 'Questin
+Booster V1 Gridfins: Vista
+RO Configs: Jade and Ty both did some
+Realnames: Ty
+RSS/NonRO: 'Questin and Vista
+Plumes: Andrew
+Booster V3 Model: 'Questin (F346 did QDs)
+Raptor 3 Model: DominoPlayz
 
-V0.6 - Block 3 Fixes, plus early Raptor 3s. (Thank you Andrew for the Plumes!!!)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-V0.61 - Aero Touchup
+Below listed are regulations specific to Flip N' Burn:
 
-V0.7 - Shiny V1 (Still some Issues, but "Beta" for now), Grid Fins, and Some Plumb
+All Models and textures (.mu, .png) are STRICTLY distributed under All Rights Reserved
 
-V0.8 - Updated V3 (No Ship)
+You may NOT redistribute any of these assets under any condition.
+You may MODIFY assets for your OWN preference; you may not redistribute, Refer to License Right 1.
+You may NOT use property of any texture or model in your own project. e.g Copying and pasting exact verticies or models within the MU into your own project.
+If you violate any of these said rights, it MAY or MAY NOT resolve in legal action and/or a permanent ban from Flip N' Burn and other supporting mod developers
 
-V0.85 - B0.5 + B1 added. Ships Redacted.
+These people may STRICTLY under license modify and/or redistribute any asset within the mod:
 
-V0.86 - Hotfix for BL1 and BL3 Nodes.
+- Vista
+- 'Questin
 
-V0.9 - Add V2/3 Ships (Planned)
+Let all assets that were strictly transferred to Flip N' Burn receive license rights from their respective owners
 
+Waterfall Configs: Andrew KSP
+Raptor Models: Domino_Playz
 
-<img width="3840" height="2160" alt="screenshot242" src="https://github.com/user-attachments/assets/81481aab-a511-4771-9625-6a1f312c5101" /> <img width="3840" height="2160" alt="screenshot262" src="https://github.com/user-attachments/assets/dba87118-de8a-4028-98a5-d8e92e8a0c9d" /> <img width="3840" height="2160" alt="screenshot258" src="https://github.com/user-attachments/assets/52d1ce8f-421f-4910-ab66-7fddc8e81f6b" />
-<img width="3840" height="2160" alt="screenshot260" src="https://github.com/user-attachments/assets/3ea53de5-7f5e-4fd4-8eae-47ba3614c727" />
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[DM on discord for any questions!]
-[Also join the Discord for more! https://discord.gg/JfuYbWAxxB]
+Thank You To SEP and more specifically Kari for being the amazing person they are. Without their support FNB wouldn't even exist. And without the foundation that SEP built this mod simply wouldn't work.
 
-FlipN'Burn © 2025 by `Questin (1questin) and Vista 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Models/.Mu/.PNGs are licensed under All Rights Reserved (ARR) [To their respective Owners]
-P.S if you're gonna make a CFG, make it actually good lol. IYKYK
+[DM on discord for any questions!] [Also join the Discord for more! https://discord.gg/JfuYbWAxxB]
 
-Booster - Questin
+FlipN'Burn © 2025 by `Questin (1questin) and Vista
 
-Raptor - Domino Playz
-
-Plume - AndrewKSP
-
-Ship (Eventually) - Vista and Questin
-
-Configs are licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
-buymeacoffee.com/Questining
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
