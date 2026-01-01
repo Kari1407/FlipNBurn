@@ -22,6 +22,8 @@ Beta 0.86 - Hotfix for BL1 Chines and BL3 Nodes. Misc Tweaks.
 
 Beta 0.9 - ~Mid Dev Block 2 Ship Added. Block 3 Ship Redacted for Serious Issues. Block 1 Tiny Tweaks, Early RO Config (Delayed a tinnnnnnnnyy bit, need to fix a thing), and Realnames.
 
+Beta 0.91 - [Planned] B4 Grid Fins, Updated B7+ Grid Fins, small Aero Tweaks, Cluster Plumes.
+
 Beta 0.95 - [Planned] Block 3/4 Ship, Possible Block 3 Overhaul V3, Misc BL1 Updates and Tweaks, BL0.5 Cluster Added Back, Possible Ship Aero Overhaul if Needed
 
 Beta 0.96 - [Planned] PEZ + Starlink, Door Operational and Drouges Working on BL3
@@ -96,6 +98,7 @@ These people may STRICTLY under license modify and/or redistribute any asset wit
 
 - Vista
 - 'Questin
+- Ty
 
 Let all assets that were strictly transferred to Flip N' Burn receive license rights from their respective owners
 
