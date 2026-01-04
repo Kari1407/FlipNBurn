@@ -68,7 +68,7 @@ Ship Model: 'Questin and Vista
 
 Booster V1 Model: 'Questin
 
-Booster V1 Gridfins: Vista
+Booster V1 Gridfins: Vista and Ty
 
 RO Configs: Jade and Ty both did some
 
