@@ -28,11 +28,13 @@ Beta 0.9.5 - Block 3 Lag Reduction, B4 Grid Fins, and Updated B7+ Grid Fins
 
 Beta 0.9.6 - At the Beheast of Andrew, BL1 Cluster and BL0 Plumes in Beta. BL0.5 Cluster added back
 
-Beta 0.91 - [Planned] Small Aero Tweaks, Finished Cluster Plumes, and Block 3 Grid Fin remodel
+Beta 0.91 - [Planned] - HLS, Misc BL1 Updates and Tweaks, Dummlink and PEZ + Door Operational
 
-Beta 0.95 - [Planned] Block 3/4 Ship, Possible Block 3 Overhaul V3, Misc BL1 Updates and Tweaks, Possible Ship Aero Overhaul if Needed
+Beta 0.92 - [Planned] Small Aero Tweaks, Finished Cluster Plumes, and Block 3 Grid Fin remodel
 
-Beta 0.96 - [Planned] PEZ + Starlink, Door Operational and Drouges Working on BL3
+Beta 0.95 - [Planned] Block 3/4 Ship, Possible Block 3 Overhaul V3, Possible Ship Aero Overhaul if Needed
+
+Beta 0.96 - [Planned] Starlink and Drouges Working on BL3
 
 Version 1.0 - [Planned] Release on SpaceDock and upload to CKAN
 
