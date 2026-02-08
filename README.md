@@ -94,8 +94,6 @@ Plumes: Andrew
 
 Booster V3 Model: 'Questin (F346 did QDs)
 
-Raptor 3 Model: DominoPlayz
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Below listed are regulations specific to Flip N' Burn:
