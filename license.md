@@ -14,4 +14,3 @@ These people may STRICTLY under license modify and/or redistribute any asset wit
 Let all assets that were strictly transferred to Flip N' Burn receive license rights from their respective owners
 
 - Waterfall Configs :: Andrew KSP
-- Raptor Models :: Domino_Playz
