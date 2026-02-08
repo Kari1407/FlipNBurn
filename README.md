@@ -3,6 +3,8 @@
 Flip N' Burn (Formerly Questin's Block 3) Changelog And Other Misc Info
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# WARNING: The Raptor 3 Model has been stolen from a secondary source WITHOUT OUR KNOWLEDGE. LENDED TO US BY DOMINOPLAYZ [Link](https://sketchfab.com/3d-models/spacex-starship-raptor-3-engine-2d3918a9edcb4eedbf2d180391113e3a) Please do not download previous releases. An IMMEDIATE fix is underway. Previous versions will be deprecated and WILL REMAIN deprecated. Sorry for any inconveniences.
 # Do not, Fucking, Download, From, Code. It's not ready yet.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
