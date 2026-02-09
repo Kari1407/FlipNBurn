@@ -4,15 +4,16 @@ Flip N' Burn (Formerly Questin's Block 3) Changelog And Other Misc Info
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# WARNING: The Raptor 3 Model has been stolen from a secondary source WITHOUT OUR KNOWLEDGE. LENDED TO US BY DOMINOPLAYZ [Link](https://sketchfab.com/3d-models/spacex-starship-raptor-3-engine-2d3918a9edcb4eedbf2d180391113e3a) Please do not download previous releases. An IMMEDIATE fix is underway. Previous versions will be deprecated and WILL REMAIN deprecated. Sorry for any inconveniences.
 # Do not, Fucking, Download, From, Code. It's not ready yet.
+
+## Previous Releases were scrubbed due Domino's antics with a stolen Sketchfab Raptor, a New Raptor Model is in Place. This will not be an issue again. 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Beta 0 - Old Block 3 File, Updated over with Actual b3 for Beta 0.5
 
 Beta 0.5 - Block 3 Model Overhaul V1, Bunch of Extra Stuff
 
-Beta 0.6 - Block 3 Fixes, plus early Raptor 3s.
+Beta 0.6 - Block 3 Fixes ~~plus early Raptor 3s~~
 
 Beta 0.61 - Aero Tweaks
 
@@ -34,11 +35,11 @@ Beta 0.91 - HLS, Misc BL1 Updates and Tweaks, BL3 Ship, BL2 Aero Tweak, PEZ Door
 
 Note: Planned Updates are Subject to Change, Follow the Trello and Discord for more up to date information.
 
-Beta 0.91.5 [Planned] Small Aero Tweaks, Finished Cluster Plumes, and Block 3 Grid Fin remodel
+Beta 0.91.5 [Planned] Small Aero Tweaks, Finished Cluster Plumes, and Block 3 Grid Fin remodel, Raptor 3 Remodel, Block 3 Booster Revamp V3
 
-Beta 0.92 - [Planned] PEZ and Dummlink, Block 1, Raptor 3 Remodel, Block 3 Booster Revamp V3
+Beta 0.92 - [Planned] PEZ and Dummlink, Block 1, R1 R2 Models
 
-Beta 0.95 - [Planned] Possible Ship Aero Overhaul if Needed, R1 R2 Models
+Beta 0.95 - [Planned] Possible Ship Aero Overhaul if Needed
 
 Beta 0.96 - [Planned] Starlinks
 
@@ -80,19 +81,21 @@ Credits List:
 
 Ship Model: 'Questin and Vista
 
-Booster V1 Model: 'Questin
+Booster V1 Model: 'Questin and Vista
 
-Booster V1 Gridfins: Vista and Ty
+Booster V1 and V3 Gridfins: Vista and Ty
 
 RO Configs: Jade and Ty both did some
 
 Realnames: Ty
 
-RSS/NonRO: 'Questin and Vista
+Sillynames: Ty
+
+RSS/NonRO: Ty and Andrew
 
 Plumes: Andrew
 
-Booster V3 Model: 'Questin (F346 did QDs)
+Booster V3 Model: 'Questin (F346 did QDs) and Ty
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -117,7 +120,6 @@ These people may STRICTLY under license modify and/or redistribute any asset wit
 Let all assets that were strictly transferred to Flip N' Burn receive license rights from their respective owners
 
 Waterfall Configs: Andrew KSP
-Raptor Models: Domino_Playz
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -127,6 +129,6 @@ Thank You To SEP and more specifically Kari for being the amazing person they ar
 
 [DM on discord for any questions!] [Also join the Discord for more! https://discord.gg/JfuYbWAxxB]
 
-FlipN'Burn © 2025 by `Questin (1questin) and Vista
+FlipN'Burn © 2026 by `Questin (1questin) and Vista
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
