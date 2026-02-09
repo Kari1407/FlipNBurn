@@ -129,6 +129,6 @@ Thank You To SEP and more specifically Kari for being the amazing person they ar
 
 [DM on discord for any questions!] [Also join the Discord for more! https://discord.gg/JfuYbWAxxB]
 
-FlipN'Burn © 2026 by `Questin (1questin) and Vista
+FlipN'Burn © 2026 by `Questin (1questin), Vista, Ty, and Andrew
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
