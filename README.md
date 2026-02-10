@@ -35,7 +35,7 @@ Beta 0.91 - HLS, Misc BL1 Updates and Tweaks, BL3 Ship, BL2 Aero Tweak, PEZ Door
 
 Note: Planned Updates are Subject to Change, Follow the Trello and Discord for more up to date information.
 
-Beta 0.91.5 [Planned] Small Aero Tweaks, Finished Cluster Plumes, and Block 3 Grid Fin remodel, Raptor 3 Remodel, Block 3 Booster Revamp V3
+Beta 0.91.5 - Small Aero Tweaks, [Mostly] Finished Cluster Plumes, Block 3 revamp, Raptor 3 revamp and nuking domino
 
 Beta 0.92 - [Planned] PEZ and Dummlink, Block 1, R1 R2 Models
 
