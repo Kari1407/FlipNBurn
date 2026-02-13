@@ -3,6 +3,18 @@ using UnityEngine;
 using Waterfall;
 
 //
+// ================= SHARED =================
+//
+
+public static class LiftoffSharedData
+{
+    public static float Up;
+    public static float Down;
+    public static float Thrust;
+    public static Vector3 ProducerPos;
+}
+
+//
 // ================= PRODUCER =================
 //
 
@@ -17,6 +29,8 @@ public class LiftoffEngineProducer : PartModule
     float downTimer;
     bool downStarted;
     bool downDone;
+
+    bool prevHasThrust;
 
     // ===== PAW DEBUG =====
 
@@ -38,7 +52,10 @@ public class LiftoffEngineProducer : PartModule
 
         float dt = Time.fixedDeltaTime;
 
-        // ===== 推力总和 =====
+        // =========================
+        // 推力总和
+        // =========================
+
         float thrust = 0f;
         for (int i = 0; i < engines.Length; i++)
             thrust += engines[i].finalThrust;
@@ -46,13 +63,26 @@ public class LiftoffEngineProducer : PartModule
         bool hasThrust = thrust > 0.5f;
 
         // =========================
-        // UP：只要有推力就推进
+        // 🔥 再次点火 → 重置整个状态机
+        // =========================
+
+        if (hasThrust && !prevHasThrust && downDone)
+        {
+            upValue = 0f;
+            downValue = 0f;
+            downTimer = 0f;
+            downStarted = false;
+            downDone = false;
+            dbgState = "RESET";
+        }
+
+        // =========================
+        // UP 阶段（只要有推力就增长）
         // =========================
 
         if (!downStarted && hasThrust)
         {
             upValue += dt;
-
             if (upValue > 150f)
                 upValue = 150f;
 
@@ -61,7 +91,7 @@ public class LiftoffEngineProducer : PartModule
 
         // =========================
         // DOWN 触发条件
-        // up>0 且 无推力
+        // 之前有 up 且现在没推力
         // =========================
 
         if (!downStarted && upValue > 0f && !hasThrust)
@@ -90,8 +120,10 @@ public class LiftoffEngineProducer : PartModule
             }
         }
 
+        prevHasThrust = hasThrust;
+
         // =========================
-        // 写共享
+        // 写共享数据
         // =========================
 
         LiftoffSharedData.Up = upValue;
@@ -100,7 +132,7 @@ public class LiftoffEngineProducer : PartModule
         LiftoffSharedData.ProducerPos = part.transform.position;
 
         // =========================
-        // PAW
+        // PAW Debug
         // =========================
 
         dbgUp = upValue;
@@ -108,7 +140,7 @@ public class LiftoffEngineProducer : PartModule
         dbgThrust = thrust;
 
         // =========================
-        // Waterfall 推送（本部件）
+        // 推送 Waterfall Controller
         // =========================
 
         for (int i = 0; i < fx.Length; i++)
@@ -128,6 +160,10 @@ public class LiftoffConsumer : PartModule
 {
     ModuleWaterfallFX[] fx;
 
+    [KSPField(guiActive = true)] public float cUp;
+    [KSPField(guiActive = true)] public float cDown;
+    [KSPField(guiActive = true)] public float cThrust;
+    [KSPField(guiActive = true)] public float cDistance;
 
     public override void OnStart(StartState s)
     {
@@ -154,7 +190,7 @@ public class LiftoffConsumer : PartModule
         cThrust = thrust;
         cDistance = dist;
 
-        // ===== Waterfall =====
+        // ===== Waterfall Controllers =====
 
         for (int i = 0; i < fx.Length; i++)
         {

@@ -4,6 +4,24 @@ using Waterfall;
 
 public class EngineStartupTimer : PartModule
 {
+    /* ===============================
+     *  Public Debug
+     * =============================== */
+    [KSPField(guiActive = true, guiName = "EngineStartup")]
+    public float engineStartup = 0f;
+
+    [KSPField(guiActive = true, guiName = "Started")]
+    public bool started = false;
+
+    /* ===============================
+     *  Internal
+     * =============================== */
+    ModuleEngines[] engines;
+    ModuleEnginesFX[] enginesFX;
+    ModuleWaterfallFX[] waterFX;
+
+    float timer = 0f;
+    const float duration = 10f; // seconds
 
     /* ===============================
      *  Lifecycle

@@ -5,6 +5,25 @@ using Waterfall;
 
 public class DelugeWaterfallController : PartModule
 {
+    private ModuleEnginesFX engine;
+    private ModuleWaterfallFX[] waterfalls;
+
+    [KSPField(isPersistant = false)]
+    public string controllerName = "Deluge";
+
+    [KSPField(isPersistant = false)]
+    public float rampUpTime = 3f;
+
+    [KSPField(isPersistant = false)]
+    public float rampDownTime = 3f; // 未使用但保留
+
+    [KSPField(isPersistant = false)]
+    public string engineID = "";
+
+    private float currentValue = 0f;
+
+    private float shutdownTimer = 0f;
+    private bool isShuttingDown = false;
 
     // 三段式下降参数
     private const float stopPoint = 0.75f;

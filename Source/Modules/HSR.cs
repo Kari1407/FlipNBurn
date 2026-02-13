@@ -7,6 +7,26 @@ namespace BoosterThrustDetect
 {
     public class BoosterThrustDetectModule : PartModule
     {
+        // ================= CFG =================
+
+        [KSPField] public string detectTransformName = "detectTransform";
+        [KSPField] public string numberControllerName = "Number";
+        [KSPField] public string pushControllerName = "Push";
+
+        // ⚠️ 只允许这些引擎
+        [KSPField]
+        public string allowedEngineParts = "FNB_R3_VAC,FNB_R3_CENTER";
+
+        [KSPField(guiActive = true, isPersistant = true)]
+        [UI_FloatRange(minValue = 0.3f, maxValue = 0.95f, stepIncrement = 0.05f)]
+        public float facingDotThreshold = 0.6f;
+
+        [KSPField(guiActive = true, isPersistant = true)]
+        [UI_FloatRange(minValue = 5f, maxValue = 150f, stepIncrement = 5f)]
+        public float maxDistance = 60f;
+
+        [KSPField]
+        public float thrustScale = 0.001f;
 
         // ================= Debug =================
 

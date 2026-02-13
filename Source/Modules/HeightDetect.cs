@@ -8,6 +8,19 @@ namespace HeightDetect
 {
     public class HeightDetectModule : PartModule
     {
+        [KSPField] public string terrainControllerName = "Height";
+        [KSPField] public string waterControllerName = "Water";
+
+        [KSPField] public string targetTransformName = "thrustTransform1";
+        [KSPField] public string followTransformName = "thrustTransform3";
+
+        [KSPField(guiActive = true)] public string dbgHitType = "None";
+        [KSPField(guiActive = true)] public string dbgHitName = "None";
+        [KSPField(guiActive = true, guiFormat = "F2")] public float dbgHitDist = 0f;
+        [KSPField(guiActive = true, guiFormat = "F2")] public float dbgFinalHeight = 0f;
+        [KSPField(guiActive = true)] public int dbgBelowSolid = 0;
+        [KSPField(guiActive = true)] public int dbgLaunchPad = 0;
+        [KSPField(guiActive = true)] public string dbgAllHits = "None";
 
         private Transform targetTransform;
         private Transform followTransform;

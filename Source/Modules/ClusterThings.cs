@@ -6,6 +6,20 @@ public class UnifiedWaterfallControlModule : PartModule
 {
     Transform tt10, tt11, tt12, tt13;
 
+    [KSPField(guiActive = true)] public float dbgTT10;
+    [KSPField(guiActive = true)] public float dbgTT11;
+    [KSPField(guiActive = true)] public float dbgTT12;
+    [KSPField(guiActive = true)] public float dbgTT13;
+
+    [KSPField(guiActive = true)] public int upndown;
+    [KSPField(guiActive = true)] public float downdown;
+    [KSPField(guiActive = true)] public float downVelocity;
+
+    [KSPField(guiActive = true)] public float landingBurnInner;
+    [KSPField(guiActive = true)] public float landingBurnCore;
+
+    [KSPField(guiActive = true)] public string dbgState = "None";
+    [KSPField(guiActive = true)] public float dbgAscendHeight;
 
     ModuleWaterfallFX[] waterFX;
     ModuleEnginesFX engineInner;
