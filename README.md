@@ -4,7 +4,7 @@ Flip N' Burn (Formerly Questin's Block 3) Changelog And Other Misc Info
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-# Do not, Fucking, Download, From, Code. It's not ready yet.
+# Can Pull Request Now
 
 ## Previous Releases were scrubbed due Domino's antics with a stolen Sketchfab Raptor, a New Raptor Model is in Place. This will not be an issue again. 
 --------------------------------------------------------------------------------------------------------------------------------------------
