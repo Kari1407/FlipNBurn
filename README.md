@@ -80,6 +80,7 @@ Starship Expansion Project (SEP)
 **Unsupported mods:**
 
 PEKKAsMods (If you don't use RO)
+
 SepVisualImprove (Deprecated, Contiuned by FLBWF.)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
